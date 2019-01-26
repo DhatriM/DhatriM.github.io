@@ -132,6 +132,9 @@ p:last-child {
 .is-text-align-right {
 	text-align: right;
 	}
+.is-text-align-left {
+	text-align: left;
+}
 .uppercase {
 	text-transform: uppercase;
 	}
